@@ -1,4 +1,6 @@
-## Hi there 👋
+# Heya Wassup!
+
+### Myself Rishaan, and I build and break stuff!
 
 <!--
 **Rishaan2202/Rishaan2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

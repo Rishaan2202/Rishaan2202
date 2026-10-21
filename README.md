@@ -2,6 +2,8 @@
 
 ### Myself Rishaan, and I build and break stuff!
 
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=rishaan2202&theme=tokyonight)](https://github.com/rishaan2202)
+
 <!--
 **Rishaan2202/Rishaan2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
